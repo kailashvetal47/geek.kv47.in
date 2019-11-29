@@ -1,11 +1,11 @@
 {
   "development": {
-    "apiUrl": "http://35.241.179.145/",
+    "apiUrl": "http://35.233.111.0/",
     "contentApiKey": "ae26415af68575b7f192a3c09b",
     "version": "v2"
   },
   "production": {
-    "apiUrl": "http://35.241.179.145",
+    "apiUrl": "http://35.233.111.0/",
     "contentApiKey": "ae26415af68575b7f192a3c09b",
     "version": "v2"
   }
